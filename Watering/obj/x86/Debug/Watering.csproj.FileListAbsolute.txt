@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Watering\Watering\bin\Debug\Watering.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Watering\Watering\bin\Debug\Watering.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Watering\Watering\obj\x86\Debug\Watering.FormMain.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Watering\Watering\obj\x86\Debug\Watering.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Watering\Watering\obj\x86\Debug\Watering.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\Watering\Watering\obj\x86\Debug\Watering.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Watering\Watering\obj\x86\Debug\Watering.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\Watering\Watering\obj\x86\Debug\Watering.csprojResolveAssemblyReference.cache
